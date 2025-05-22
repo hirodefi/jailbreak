@@ -5,7 +5,6 @@ import LLMDetail from '../components/llm/LLMDetail';
 import LLMChat from '../components/llm/LLMChat';
 
 
-
 const LLMDetailPage: React.FC = () => {
 
     const navigate = useNavigate();
