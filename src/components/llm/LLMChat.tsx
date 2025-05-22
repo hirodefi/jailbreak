@@ -7,6 +7,7 @@ import { AxiosResponse } from 'axios';
 import { jailbreakABI, jailbreakContractAddress } from '../../configs/contract';
 
 
+
 interface Chat {
     senderType: string;
     senderAddress: string;
